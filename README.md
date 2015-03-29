@@ -1,12 +1,12 @@
 # Welcome to the [WVNHS Search Page](http://www.wvnhs.com/search)!
 
 This page is the newest addition to Wayne Valley's National Honor Society website, and allows users to quickly search through all of the members in the organization. It was created as an example to practice new Web Development technologies and philosophies. These include:
-* Javascript namespace objects
+<strong>* Javascript namespace objects
 * Bootstrap CSS
 * Angular.js
 * CSS @media queries
 * Improved project documentation
-* Organized stylesheet and js scripts
+* Organized stylesheet and js scripts</strong>
 
 ##Improved Design
 The site works seamlessly on both mobile and desktop based browsers because of the Bootstrap integration. An @media query is used to add table padding when viewed from a larger screen without affecting the mobile experience.
