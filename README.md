@@ -1,6 +1,6 @@
 # Welcome to the [WVNHS Search Page](http://www.wvnhs.com/search)!
 
-This page is the newest addition to Wayne Valley's National Honor Society website, and allows users to quickly search through all of the members in the organization. It was created as an example to practice new Web Development technologies and philosophies. These include:
+This page is the newest addition to Wayne Valley's National Honor Society website, and allows users to quickly search through all of the members in the organization. Each member's first and last name appear, as well as a proof-of-concept dummy info button. It was created as an example to practice new Web Development technologies and philosophies. These include:
 * <strong>Javascript namespace objects
 * <strong>Bootstrap CSS
 * <strong>Angular.js
