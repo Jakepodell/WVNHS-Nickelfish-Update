@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD
 	<script src="js/lib/jquery.min.js"></script>
 	<script src="js/lib/angular.min.js"></script>
 
@@ -18,6 +19,22 @@
 	<script src="js/lib/bootstrap.min.js"></script>
 
   <script src = "js/res/member.js"></script>
+=======
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="css/search.css">
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+  <script src = "js/member.js"></script>
+>>>>>>> b888e8e9ab2f28bacae4a4c39ec8911f3efd79ef
 
 </head>
 
