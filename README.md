@@ -1,6 +1,6 @@
-# Welcome to the [WVNHS Nickelfish Update](http://www.wvnhs.com/search)!
+# Welcome to the [WVNHS Search Page](http://www.wvnhs.com/search)!
 
-This page is the newest addition to Wayne Valley's National Honor Society website. It was created as an example to practice new Web Development technologies and philosophies. These include:
+This page is the newest addition to Wayne Valley's National Honor Society website, and allows users to quickly search through all of the members in the organization. It was created as an example to practice new Web Development technologies and philosophies. These include:
 *** Javascript namespace objects**
 *** Bootstrap CSS**
 *** Angular.js**
